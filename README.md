@@ -15,7 +15,7 @@
 - [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 - [“Russia”, “Denmark”, “Kazan”] → []
 
-
+![Alt-текст](block_schema.png)
 
 ## Решение:
 1.	Создан репозиторий ITOG_rabota_1
